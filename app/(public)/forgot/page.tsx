@@ -3,6 +3,9 @@ import Link from "next/link";
 export default function ForgotPage() {
   return (
     <form className="w-72 m-auto">
+      <title>Forgot password - Breadz</title>
+
+
       <h1 className="text-3xl mb-3 font-bold">Forgot Pasword</h1>
       
       <div className="mb-3">

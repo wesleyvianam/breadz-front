@@ -3,6 +3,8 @@ import Link from "next/link";
 export default function LoginPage() {
   return (
     <form className="w-72 m-auto">
+      <title>Login - Breadz</title>
+
       <h1 className="text-3xl mb-3 text-center font-bold">Breadz</h1>
       
       <div className="mb-3">
